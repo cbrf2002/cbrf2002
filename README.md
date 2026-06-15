@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Full Stack Developer • Embedded Systems Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Embedded+Systems+Developer;Embedded+Systems+Developer;ESP32+%7C+STM32+%7C+Raspberry+Pi;Building+Software+and+Hardware" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Embedded+Systems+Developer;Mobile+Developer;ESP32+%7C+STM32+%7C+Raspberry+Pi;Building+Software+and+Hardware" />
 
 </div>
 
@@ -33,6 +33,12 @@ Here are some ideas to get you started:
 - 🤖 Interested in AI, Computer Vision, and IoT
 - 📐 Computer Engineering Graduate
 
+---
+
+## Quick Links
+
+- [Portfolio](https://portfolio.cbrf2002.workers.dev)
+  
 ---
 
 ## Tech Stack
