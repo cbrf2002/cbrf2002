@@ -64,11 +64,3 @@
 ![KiCad](https://badgen.net/badge/CAD/KiCad/314CB0?icon=kicad)
 
 </div>
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cbrf2002&theme=high-contrast" alt="GitHub Contribution Activity" />
-
-</div>
