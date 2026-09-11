@@ -8,11 +8,10 @@
 
 ## About Me
 
-* 🌐 Full Stack Developer using Next.js, Node.js, TypeScript, and MSSQL
+* 🌐 Full Stack Developer using Next.js, Node.js, C#, and TypeScript
 * 📱 Mobile Developer using Flutter, Kotlin, and Swift
 * ☁️ Cloud development using Firebase and Cloudflare
 * 🔧 Embedded Systems Developer using ESP32, STM32, and Raspberry Pi
-* 🤖 Interested in AI, Computer Vision, Machine Learning, and IoT
 * 🔌 Designing embedded hardware and PCB-based systems
 
 ## Quick Links
